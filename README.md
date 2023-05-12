@@ -1,2 +1,2 @@
-# Student-Bio
-About the student
+# Class mini-project
+contact info webpage
